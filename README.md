@@ -1,11 +1,5 @@
 <h2 align="left">Hi 👋! My name is Busari Akeem Tunde and I'm a Full-Stack Web Developer and a UI/UX Designer from Nigeria.</h2>
 
-###
-
-<img align="right" height="150" src="https://th.bing.com/th/id/R.3a7a4b0d445c7b4a4b2bc55477a33c26?rik=zn7%2bfmDGb3LvIA&pid=ImgRaw&r=0"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />

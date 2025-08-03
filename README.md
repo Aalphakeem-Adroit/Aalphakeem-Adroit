@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Busari Akeem Tunde. I'm a Full-Stack Web Developer and a Brand Identity Designer from Nigeria.</h2>
+<h2 align="left">Software Engineer | Crafting Seamless Digital Experiences | Transforming User Experiences with Innovative Designs and Robust Code | Passionate about Innovative Solutions and Continuous and Deep Learning</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />

@@ -1,5 +1,9 @@
+# 👋 Hello, this is Busari Akeem Tunde!
+
 <h2 align="left">Software Engineer | Crafting Seamless Digital Experiences | Transforming User Experiences with Innovative Designs and Robust Code | Passionate about Innovative Solutions, Continuous and Deep Learning</h2>
 
+
+# Tech Stack 🖥️
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -54,6 +58,7 @@
 </div>
 
 ###
+# Let's connect 😀
 
 <div align="left">
   <a href="https://www.instagram.com/alphakeem_adroit" target="_blank">
@@ -71,3 +76,9 @@
 </div>
 
 ###
+
+# 💻 Contribution 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aalphakeem-Adroit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aalphakeem-Adroit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&exclude_repo=Aalphakeem-Adroit" height="150" alt="languages graph"  />
+</div>
